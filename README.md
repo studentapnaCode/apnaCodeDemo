@@ -1,4 +1,4 @@
 # apnaCodeDemo
 This is my First Git Repository.
 <br>
-Author - Sanjana Kumari
+Author - Sanjana Kumari(apna College)
